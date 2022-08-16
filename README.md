@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paths</h1>
 <h3 align="center">Software Engineer continuously learning and developing software for interactive 2D and 3D stuff.</h3>
 
+I know this README.md is very... "boilerplaty", I'll try to make it better when i can.
+
 - 🔭 I’m currently working on [Nirby](https://www.nir.by/)
 
 <h3 align="left">Connect with me:</h3>
