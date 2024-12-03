@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Patricio Campaña and I'm a software engineer on his path to become a Machine Learning Engineer.</p>
+<p align="left">My name is Patricio Campaña and I'm a software engineer with experience on machine learning applications.</p>
 
 ###
 
