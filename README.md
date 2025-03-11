@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Programming since 2013. Professional since 2021.<br>📚 I'm currently learning PyTorch.<br>🎯 Goals: Keep creating and have a stable life.<br>🎲 Fun fact: I like ducks.</p>
+<p align="left">✨ Programming since 2013. Professional since 2021.<br>📚 I'm currently learning Kubernetes.<br>🎯 Goals: Keep creating and have a stable life.<br>🎲 Fun fact: I like ducks.</p>
 
 ###
 
