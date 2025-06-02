@@ -4,7 +4,7 @@
 
 <p align="left">My name is Patricio Campaña and I'm a software engineer with experience on machine learning applications.</p>
 
-<p align="left">Also check my organization profile here in github (used for projects I have deployed and/or reached an important milestone): <a href="https://github.com/pankandev" target="_blank">pankandev</a>
+<p align="left">Also check my organization profile here in github where I have other projects: <a href="https://github.com/pankandev" target="_blank">pankandev</a>
 
 ###
 
